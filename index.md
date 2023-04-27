@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/diabetic-health-insurance.jpeg
       button: Contact Us
       url: /contact-us/
       key_highlights:
