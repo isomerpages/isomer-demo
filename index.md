@@ -7,8 +7,7 @@ permalink: /
 notification: this is a notification
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Donate Blood
       background: /images/diabetic-health-insurance.jpeg
       button: Contact Us
       url: /contact-us/
