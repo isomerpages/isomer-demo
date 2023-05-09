@@ -6,3 +6,5 @@ links:
     url: /example-page/
   - title: Departments
     collection: example-folder
+  - title: Example
+    url: /permalink
