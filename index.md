@@ -22,9 +22,7 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Our Blood Bank Locations
+      button: Click here to find out more
       url: /faq/
 ---
