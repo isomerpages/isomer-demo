@@ -23,6 +23,7 @@ sections:
           url: https://www.redcross.sg/donate-now/corporate-fundraising.html
   - infobar:
       title: Our Blood Bank Locations
-      button: Click here to find out more
+      button: Read more
       url: /faq/
+      subtitle: Where to donate
 ---
