@@ -22,12 +22,7 @@ sections:
           description: Support our local community
           url: https://www.redcross.sg/donate-now/corporate-fundraising.html
   - infobar:
-      title: Our Blood Bank Locations
-      button: Read more
-      url: /faq/
-      subtitle: Where to donate
-  - infobar:
-      title: We can't save lives without you
+      title: We Can't Save Lives Without You
       subtitle: youtube
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/xsdm3EK0aF8" title="YouTube video
@@ -35,4 +30,9 @@ sections:
         encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen></iframe>
       button: Button Text
+  - infobar:
+      title: Our Blood Bank Locations
+      button: Read more
+      url: /faq/
+      subtitle: Where to donate
 ---
