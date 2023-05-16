@@ -7,7 +7,7 @@ permalink: /
 notification: this is a notification
 sections:
   - hero:
-      title: Donate Blood
+      title: Save Lives
       background: /images/diabetic-health-insurance.jpeg
       button: Donate Now
       url: https://donate.redcross.sg/srcchampion22
