@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Donate Blood
       background: /images/diabetic-health-insurance.jpeg
-      button: Contact Us
-      url: /contact-us/
+      button: Donate Now
+      url: https://donate.redcross.sg/srcchampion22
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
