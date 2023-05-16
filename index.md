@@ -12,15 +12,15 @@ sections:
       button: Donate Now
       url: https://donate.redcross.sg/srcchampion22
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Make a Monthly Donation
+          description: Help to improve lives
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Memory Giving
+          description: Keep a lasting memory alive
+          url: https://www.redcross.sg/donate-now/memory-giving.html
+        - title: Corporate Giving
+          description: Support our local community
+          url: https://www.redcross.sg/donate-now/corporate-fundraising.html
   - infobar:
       title: Our Blood Bank Locations
       button: Click here to find out more
