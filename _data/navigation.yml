@@ -1,10 +1,12 @@
-logo: /images/isomer-logo.svg
+logo: /images/blood bank logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About Us
-    url: /example-page/
-  - title: Departments
+  - title: Give Blood
+    url: https://www.redcross.sg/give-blood/why-should-i-donate-blood.html
+  - title: Get Involved
+    url: https://www.redcross.sg/get-involved.html
+  - title: Get Assistance
     collection: example-folder
-  - title: Example
+  - title: Get Trained
     url: /permalink
+  - title: News and Stories
+    resource_room: true
