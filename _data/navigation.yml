@@ -1,0 +1,12 @@
+logo: /images/blood bank logo.png
+links:
+  - title: Give Blood
+    url: https://www.redcross.sg/give-blood/why-should-i-donate-blood.html
+  - title: Get Involved
+    url: https://www.redcross.sg/get-involved.html
+  - title: Get Assistance
+    collection: example-folder
+  - title: Get Trained
+    url: /permalink
+  - title: News and Stories
+    resource_room: true
